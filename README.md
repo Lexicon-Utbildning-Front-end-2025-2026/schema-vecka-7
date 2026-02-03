@@ -4,7 +4,7 @@ Den här veckan går vi från att bara "titta" på data till att faktiskt intera
 
 ---
 
-## 📅 Måndag & Tisdag: Server vs Client & API Routes
+## 📅 Måndag: Server vs Client & API Routes
 
 Vi går direkt på djupet genom att bygga en interaktiv "Gilla-funktion". Vi lär oss hur Next.js delar upp arbetet mellan servern och webbläsaren och hur vi pratar med vår egen backend.
 
@@ -14,6 +14,7 @@ Vi går direkt på djupet genom att bygga en interaktiv "Gilla-funktion". Vi lä
 * **"Use Client":** Lära oss att sätta gränser för vår JavaScript-mängd.
 * **Hooks & State:** Använda `useState` för att hantera klick och datahämtning på klientsidan.
 * **API Routes:** Bygga egna endpoints i `/api` för att hantera POST- och GET-anrop.
+* **Optimering:** Minska mängden JavaScript som skickas till klienten.
 
 ### Live-kodning: "The Like System"
 
@@ -28,10 +29,11 @@ Vi bygger ett system där man kan gilla karaktärer eller produkter.
 * [Next.js Docs: Server vs Client Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
 * [Next.js Docs: Route Handlers (API)](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
 * [React Docs: useState](https://react.dev/reference/react/useState)
+* [Composition Patterns](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns)
 
 ---
 
-## 📅 Onsdag: URL State (searchParams & Hooks)
+## 📅 Tisdag: URL State (searchParams med hooks)
 
 Vi lär oss att styra sidans innehåll via URL:en. Det gör att användaren kan dela en länk och att "Back"-knappen i webbläsaren fungerar som förväntat.
 
@@ -40,6 +42,7 @@ Vi lär oss att styra sidans innehåll via URL:en. Det gör att användaren kan 
 * **searchParams:** Läsa filter och sökord direkt från URL:en.
 * **useRouter & usePathname:** Navigera programmatiskt när användaren klickar eller skriver.
 * **Persistens:** Varför URL-state ofta är bättre än vanlig `useState` för filtrering.
+* **Leaf Components:** Att hålla sina Client Components små och placerade längst ut i komponentträdet.
 
 ### Läsning
 
@@ -48,19 +51,13 @@ Vi lär oss att styra sidans innehåll via URL:en. Det gör att användaren kan 
 
 ---
 
-## 📅 Torsdag: Inkapsling & Kompositionsmönster
+## 📅 Onsdag & Torsdag: Repetition
 
-Hur får vi Server och Client att samarbeta utan att krascha appen eller göra den långsam?
 
 ### Mål för dagen
 
-* **Leaf Components:** Att hålla sina Client Components små och placerade längst ut i komponentträdet.
 * **Server Components as Children:** Hur vi kan skicka server-renderad kod in i en klient-komponent.
-* **Optimering:** Minska mängden JavaScript som skickas till klienten.
 
-### Läsning
-
-* [Composition Patterns](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns)
 
 ---
 

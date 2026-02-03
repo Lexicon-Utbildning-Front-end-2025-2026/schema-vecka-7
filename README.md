@@ -12,7 +12,7 @@ Vi går direkt på djupet genom att bygga en interaktiv "Gilla-funktion". Vi lä
 
 * **The Mental Model:** Förstå när koden körs på servern (SEO/Säkerhet) och när den körs i webbläsaren (Interaktivitet).
 * **"Use Client":** Lära oss att sätta gränser för vår JavaScript-mängd.
-* **Hooks & State:** Använda `useState` och `useEffect` för att hantera klick och datahämtning på klientsidan.
+* **Hooks & State:** Använda `useState` för att hantera klick och datahämtning på klientsidan.
 * **API Routes:** Bygga egna endpoints i `/api` för att hantera POST- och GET-anrop.
 
 ### Live-kodning: "The Like System"

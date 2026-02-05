@@ -8,7 +8,11 @@ Den här veckan går vi från att bara "titta" på data till att faktiskt intera
 
 Vi går direkt på djupet genom att bygga en interaktiv "Gilla-funktion". Vi lär oss hur Next.js delar upp arbetet mellan servern och webbläsaren och hur vi pratar med vår egen backend.
 
+Client vs Server
 ![Server vs Client - från https://levelup.gitconnected.com/next-js-client-side-and-server-side-components-when-and-what-to-use-7c4beccf1eab](https://miro.medium.com/v2/resize:fit:720/format:webp/1*n-TVYb7Hu1LswYOXm2OnzA.png)
+
+Rendering Lifecycle of Server and Client (från https://javascript.plainenglish.io/next-js-15-tutorial-part-38-rendering-lifecycle-of-server-and-client-components-7a80006e14a2)
+![Rendering Lifecycle of Server and Client ](https://miro.medium.com/v2/resize:fit:1400/1*AQ1bKekPg_DBR1zDog_MaA.png)
 
 ### Mål för dagarna
 

@@ -7,7 +7,8 @@ Den här veckan går vi från att bara "titta" på data till att faktiskt intera
 ## 📅 Måndag: Server vs Client & API Routes
 
 Vi går direkt på djupet genom att bygga en interaktiv "Gilla-funktion". Vi lär oss hur Next.js delar upp arbetet mellan servern och webbläsaren och hur vi pratar med vår egen backend.
-https://miro.medium.com/v2/resize:fit:720/format:webp/1*n-TVYb7Hu1LswYOXm2OnzA.png
+
+![Server vs Client - från https://levelup.gitconnected.com/next-js-client-side-and-server-side-components-when-and-what-to-use-7c4beccf1eab](https://miro.medium.com/v2/resize:fit:720/format:webp/1*n-TVYb7Hu1LswYOXm2OnzA.png)
 
 ### Mål för dagarna
 

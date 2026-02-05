@@ -27,6 +27,7 @@ Vi bygger ett system där man kan gilla karaktärer eller produkter.
 ### Läsning
 
 * [Next.js Docs: Server vs Client Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
+* [React Docs: Server components](https://react.dev/reference/rsc/server-components)
 * [React Docs: "use client"](https://react.dev/reference/rsc/use-client)
 * [Next.js Docs: Route Handlers (API)](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
 * [React Docs: useState](https://react.dev/reference/react/useState)

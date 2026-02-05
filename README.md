@@ -41,9 +41,9 @@ Vi bygger ett system där man kan gilla karaktärer eller produkter.
 
 ---
 
-## 📅 Tisdag: URL State (searchParams med hooks)
+## 📅 Tisdag: URL State Management i med Cliend components
 
-Vi lär oss att styra sidans innehåll via URL:en. Det gör att användaren kan dela en länk och att "Back"-knappen i webbläsaren fungerar som förväntat.
+Vi tar vidare det vi arbetat med i server med searchParams, men flyttar in vissa delar in i client components. Vi gör om våra hårdkodade länkar för limit osv till interaktiva element. 
 
 ### Mål för dagen
 
@@ -63,9 +63,7 @@ Vi lär oss att styra sidans innehåll via URL:en. Det gör att användaren kan 
 
 
 ### Mål för dagen
-
-* **Server Components as Children:** Hur vi kan skicka server-renderad kod in i en klient-komponent.
-
+* Jobba vidare med det ni lärt er senaste veckorna. Lägg gärna lite tid på e-learning också!
 
 ---
 

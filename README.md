@@ -115,6 +115,6 @@ export async function POST(request: Request) {
 
 ---
 
-## 📚 Extra material & E-learning
+## 📚 Extra material
 * [ByteGrad: Next.js API Routes Explained](https://www.youtube.com/watch?v=KAQCHfu_3jw)
 * [ByteGrad: All 29 Next.js Mistaces Beginners Make](https://www.youtube.com/watch?v=5QP0mvrJkiY)

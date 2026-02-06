@@ -39,6 +39,10 @@ Vi bygger ett system där man kan gilla karaktärer eller produkter.
 * [Next.js Docs: Route Handlers (API)](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
 * [React Docs: useState](https://react.dev/reference/react/useState)
 
+### 📚 Extra material & E-learning
+* [Pluralsight: Se delen (Server Components vs. Client Components)](https://app.pluralsight.com/ilx/video-courses/ccd9b257-fdf5-49c0-b05e-029bf2310416/c0444e39-159a-4077-a664-e632c14a1ee4/6d46e56e-214a-426f-8352-b1dc34131f3a)
+* [ByteGrad: When & Where to Add "use client" in React/Next.js (Client Components vs Server Components)](https://www.youtube.com/watch?v=Qdkg_mrniLk)
+
 ---
 
 ## 📅 Tisdag: URL State Management i med Client components
@@ -56,6 +60,9 @@ Vi tar vidare det vi arbetat med i server med searchParams, men flyttar in vissa
 
 * [Next.js Docs: useSearchParams](https://nextjs.org/docs/app/api-reference/functions/use-search-params)
 * [Next.js Docs: useRouter](https://nextjs.org/docs/app/api-reference/functions/use-router)
+
+### 📚 Extra material & E-learning
+* [ByteGrad: STOP using useState, instead put state in URL](https://www.youtube.com/watch?v=ukpgxEemXsk)
 
 ---
 
@@ -112,7 +119,4 @@ export async function POST(request: Request) {
 
 * [Next.js Tutorial: Client vs Server Components](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DkaS7it45vX0)
 * [ByteGrad: Next.js API Routes Explained](https://www.youtube.com/watch?v=KAQCHfu_3jw)
-* [Pluralsight: Se delen (Server Components vs. Client Components)](https://app.pluralsight.com/ilx/video-courses/ccd9b257-fdf5-49c0-b05e-029bf2310416/c0444e39-159a-4077-a664-e632c14a1ee4/6d46e56e-214a-426f-8352-b1dc34131f3a)
-* [ByteGrad: When & Where to Add "use client" in React/Next.js (Client Components vs Server Components)](https://www.youtube.com/watch?v=Qdkg_mrniLk)
-* [ByteGrad: STOP using useState, instead put state in URL](https://www.youtube.com/watch?v=ukpgxEemXsk)
 * [ByteGrad: All 29 Next.js Mistaces Beginners Make](https://www.youtube.com/watch?v=5QP0mvrJkiY)

@@ -116,7 +116,5 @@ export async function POST(request: Request) {
 ---
 
 ## 📚 Extra material & E-learning
-
-* [Next.js Tutorial: Client vs Server Components](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DkaS7it45vX0)
 * [ByteGrad: Next.js API Routes Explained](https://www.youtube.com/watch?v=KAQCHfu_3jw)
 * [ByteGrad: All 29 Next.js Mistaces Beginners Make](https://www.youtube.com/watch?v=5QP0mvrJkiY)

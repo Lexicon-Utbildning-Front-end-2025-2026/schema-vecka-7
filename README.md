@@ -41,7 +41,7 @@ Vi bygger ett system där man kan gilla karaktärer eller produkter.
 
 ---
 
-## 📅 Tisdag: URL State Management i med Cliend components
+## 📅 Tisdag: URL State Management i med Client components
 
 Vi tar vidare det vi arbetat med i server med searchParams, men flyttar in vissa delar in i client components. Vi gör om våra hårdkodade länkar för limit osv till interaktiva element. 
 

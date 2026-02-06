@@ -112,3 +112,4 @@ export async function POST(request: Request) {
 
 * [Next.js Tutorial: Client vs Server Components](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DkaS7it45vX0)
 * [ByteGrad: Next.js API Routes Explained](https://www.youtube.com/watch?v=KAQCHfu_3jw)
+* [Pluralsight: Se delen (Server Components vs. Client Components)](https://app.pluralsight.com/ilx/video-courses/ccd9b257-fdf5-49c0-b05e-029bf2310416/c0444e39-159a-4077-a664-e632c14a1ee4/6d46e56e-214a-426f-8352-b1dc34131f3a)

@@ -32,16 +32,16 @@ Vi bygger ett system där man kan gilla karaktärer eller produkter.
 2. Vi skapar en **Client Component** (`LikeButton`) med `useState`.
 3. Vi bygger en **Route Handler** (`api/like/route.ts`) som fungerar som vår mini-backend.
 
+### 📚 E-learning
+* [Pluralsight: Se delen (Server Components vs. Client Components)](https://app.pluralsight.com/ilx/video-courses/ccd9b257-fdf5-49c0-b05e-029bf2310416/c0444e39-159a-4077-a664-e632c14a1ee4/6d46e56e-214a-426f-8352-b1dc34131f3a)
+* [ByteGrad: When & Where to Add "use client" in React/Next.js (Client Components vs Server Components)](https://www.youtube.com/watch?v=Qdkg_mrniLk)
+
 ### Läsning
 * Läs gärna igenom denna innan föreläsningen om ni kan - [Server and Client Components](https://nextjs.org/docs/app/getting-started/server-and-client-components)
 * [React Docs: Server components](https://react.dev/reference/rsc/server-components)
 * [React Docs: "use client"](https://react.dev/reference/rsc/use-client)
 * [Next.js Docs: Route Handlers (API)](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
 * [React Docs: useState](https://react.dev/reference/react/useState)
-
-### 📚 Extra material & E-learning
-* [Pluralsight: Se delen (Server Components vs. Client Components)](https://app.pluralsight.com/ilx/video-courses/ccd9b257-fdf5-49c0-b05e-029bf2310416/c0444e39-159a-4077-a664-e632c14a1ee4/6d46e56e-214a-426f-8352-b1dc34131f3a)
-* [ByteGrad: When & Where to Add "use client" in React/Next.js (Client Components vs Server Components)](https://www.youtube.com/watch?v=Qdkg_mrniLk)
 
 ---
 
@@ -56,13 +56,13 @@ Vi tar vidare det vi arbetat med i server med searchParams, men flyttar in vissa
 * **Persistens:** Varför URL-state ofta är bättre än vanlig `useState` för filtrering.
 * **Leaf Components:** Att hålla sina Client Components små och placerade längst ut i komponentträdet.
 
+### 📚 E-learning
+* [ByteGrad: STOP using useState, instead put state in URL](https://www.youtube.com/watch?v=ukpgxEemXsk)
+
 ### Läsning
 
 * [Next.js Docs: useSearchParams](https://nextjs.org/docs/app/api-reference/functions/use-search-params)
 * [Next.js Docs: useRouter](https://nextjs.org/docs/app/api-reference/functions/use-router)
-
-### 📚 Extra material & E-learning
-* [ByteGrad: STOP using useState, instead put state in URL](https://www.youtube.com/watch?v=ukpgxEemXsk)
 
 ---
 

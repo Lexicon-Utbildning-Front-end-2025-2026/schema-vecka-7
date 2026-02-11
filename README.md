@@ -79,11 +79,15 @@ Vi tar vidare det vi arbetat med i server med searchParams, men flyttar in vissa
 Vi snyggar till koden och kollar på varandras lösningar från veckans projekt.
 
 ### Frågor för Code Review
+Denna gång tänker vi att ni får lite större frihet i vad ni pratar om då vi inte haft så mycket kodsnack senaste veckorna. Men här kommer några frågor som ni gärna får ta med om ni vill ha lite riktning på samtalet. 
+* Hur har det gått med next.js så här långt? Vad har varit lättare och vad har varit svårare?
+* Hur var det att ändra från json till API med fetch? Har ni fått det att fungera med interfaces och annat?
+* Har ni lyckats få till nån client component? Vad gjorde att ni valde det och hur la ni upp det så det skulle fungera bra?
+* Har ni använt några hooks någonstans? Varför? Finns det alternativa lösningar och i så fall vilka för/nackdelar finns med de olika valen?
 
-* Har vi placerat `"use client"` på rätt ställe, eller "smittar" den för mycket av appen?
-* Fungerar vår API-route även om vi laddar om sidan?
-* Hur känns prestandan i Network-tabben?
-
+#### Till samlingen
+* Berätta någon intressant lärdom som ni i gruppen haft kring next.js/react som ni tänker kan bidra till de andra i klassen.
+  
 ---
 
 ## 🛒 Veckans Projekt: The Modern Store (Interaktiv)
